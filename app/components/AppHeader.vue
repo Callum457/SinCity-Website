@@ -32,12 +32,12 @@ const links = [{
         to="/login"
       />
       <UButton
-        label="Sign up"
-        icon="i-heroicons-arrow-right-20-solid"
-        trailing
-        color="black"
-        to="/signup"
-        class="hidden lg:flex"
+        to="https://github.com/nuxt-ui-pro/saas"
+        target=_blank"
+        icon="i-simple-icons-github"
+        aria-label="GitHub"
+        color="gray"
+        variant="ghost"
       />
     </template>
 
